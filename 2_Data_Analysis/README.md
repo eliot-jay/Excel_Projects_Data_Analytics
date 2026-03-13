@@ -25,7 +25,7 @@ Power Query was used to perform the tasks of Extract, Transform, and Locate on t
 #### Analysis
 In simple terms, Engineer type jobs require more skills but don't always mean more pay for those skills. As expected, Senior roles pay the most but also require more skills. But overall, higher paying job roles are going to require more specialized skills.  
 
-![Data graph showing what skills get you more pay]()
+![Data graph showing what skills get you more pay](https://github.com/eliot-jay/Excel_Projects_Data_Analytics/blob/main/Project_Screenshots/Screenshot%202026-03-13%20164530.jpg)
 
 ### Top Skills Require for Data Analysts in the U.S.
 The next logical step in seeing what jobs have a great return on the investment of skills, is to try to dial in to what specific skills each job requires. For this, I picked to look specifically at Data Analysts jobs in the U.S. 
