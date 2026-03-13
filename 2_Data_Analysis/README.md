@@ -1,6 +1,6 @@
 # Project 2 - Data Jobs Analysis
 
-![Screenshot showing the top jobs for data analysts in the United States]()
+![Screenshot showing the top jobs for data analysts in the United States](https://github.com/eliot-jay/Excel_Projects_Data_Analytics/blob/main/Project_Screenshots/Screenshot%202026-03-13%20164314.jpg)
 
 ## Introduction
 
