@@ -1,13 +1,13 @@
 # Project 1 - Salary Dashboard
 
-![Screenshot of project 1 data salary dashboard]()
+![Screenshot of project 1 data salary dashboard](https://github.com/eliot-jay/Excel_Projects_Data_Analytics/blob/main/Project_Screenshots/Screenshot%202026-03-13%20164616.jpg)
 
 ## Introduction
 
 This dashboard was created using job data from various sources of job postings in the data science fields. This data could be used by potential job seekers to check to make sure pay being offered is competetive for their specific job title and location. 
 
 ### Dashboard File
-Here is my final dashboard (1_Salary_Dashboard.xlsx).
+Here is my final dashboard [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 This shows my basic understanding of tools like formulas and functions, charts, and data validation as it relates to Excel
