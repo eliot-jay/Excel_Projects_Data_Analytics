@@ -14,6 +14,8 @@ This project was designed to help understand what skills top employers request o
 
 [Checkout my project here](2_Data_Analysis)
 
+![Screenshot showing more data from data science workers from project 2](https://github.com/eliot-jay/Excel_Projects_Data_Analytics/blob/main/Project_Screenshots/Screenshot%202026-03-13%20164447.jpg)
+
 ![Screenshot showing top skills for data science workers from project 2](https://github.com/eliot-jay/Excel_Projects_Data_Analytics/blob/main/Project_Screenshots/Screenshot%202026-03-13%20164402.jpg)
 
-![Screenshot showing more data from data science workers from project 2]()
+
